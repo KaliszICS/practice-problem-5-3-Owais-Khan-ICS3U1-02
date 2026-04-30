@@ -1,3 +1,15 @@
+/**
+
+        * File: Lesson 5.3 - Arrays adding and removing
+
+        * Author: Owais Ali Khan
+
+        * Date Created: April 30, 2026
+
+        * Date Last Modified: April 30, 2026
+
+        */
+
 public class PracticeProblem {
 
 	public static void main(String args[]) {
